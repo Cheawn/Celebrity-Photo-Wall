@@ -1,0 +1,55 @@
+body {background-color:green;
+
+}
+.photos {width: 20%;
+    
+}
+
+#rosewater {border-style: solid;
+border-width: 20px;
+border-color:purple;
+padding: 20px;
+margin-left: 50%;
+margin-right: auto;
+border-radius: 80px
+}
+
+#iwata {border-style: hidden;
+border-width: 15px;
+border-color:yellow;
+padding: 38px;
+border-radius: 10px;
+width:20%;
+}
+
+#miyamoto {border-style: groove;
+border-width: 15px;
+border-color:red;
+padding: 38px;
+border-radius: 7px;
+width:20%;
+}
+
+#sakurai {border-style: dashed;
+border-width: 15px;
+border-color:pink;
+padding: 38px;
+border-radius: 100px;
+width:20%;
+}
+
+#obama {border-style: solid;
+border-width: 20px;
+border-color:white;
+padding: 42px;
+margin-left: 50%;
+margin-right: 50%;
+border-radius: 48px
+}
+
+div { width: 100%; 
+margin-left: 30%
+}
+
+h1 {text-align: center;
+}
